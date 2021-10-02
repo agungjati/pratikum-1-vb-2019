@@ -1,0 +1,15 @@
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\bin\Debug\netcoreapp3.1\Pratikum 1.exe
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\bin\Debug\netcoreapp3.1\Pratikum 1.deps.json
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\bin\Debug\netcoreapp3.1\Pratikum 1.runtimeconfig.json
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\bin\Debug\netcoreapp3.1\Pratikum 1.runtimeconfig.dev.json
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\bin\Debug\netcoreapp3.1\Pratikum 1.dll
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\bin\Debug\netcoreapp3.1\Pratikum 1.pdb
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\obj\Debug\netcoreapp3.1\Pratikum 1.vbproj.GenerateResource.cache
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\obj\Debug\netcoreapp3.1\Pratikum 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\obj\Debug\netcoreapp3.1\Pratikum 1.AssemblyInfoInputs.cache
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\obj\Debug\netcoreapp3.1\Pratikum 1.AssemblyInfo.vb
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\obj\Debug\netcoreapp3.1\Pratikum 1.vbproj.CoreCompileInputs.cache
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\obj\Debug\netcoreapp3.1\Pratikum 1.dll
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\obj\Debug\netcoreapp3.1\Pratikum 1.pdb
+C:\Users\Agung\source\repos\Pratikum\WinFormsApp1\obj\Debug\netcoreapp3.1\Pratikum 1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\obj\Debug\netcoreapp3.1\MenggunakanOperator.vbproj.AssemblyReference.cache
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\obj\Debug\netcoreapp3.1\MenggunakanOperator.Form1.resources
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\obj\Debug\netcoreapp3.1\MenggunakanOperator.vbproj.GenerateResource.cache
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\obj\Debug\netcoreapp3.1\MenggunakanOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\obj\Debug\netcoreapp3.1\MenggunakanOperator.AssemblyInfoInputs.cache
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\obj\Debug\netcoreapp3.1\MenggunakanOperator.AssemblyInfo.vb
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\obj\Debug\netcoreapp3.1\MenggunakanOperator.vbproj.CoreCompileInputs.cache
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\bin\Debug\netcoreapp3.1\MenggunakanOperator.exe
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\bin\Debug\netcoreapp3.1\MenggunakanOperator.deps.json
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\bin\Debug\netcoreapp3.1\MenggunakanOperator.runtimeconfig.json
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\bin\Debug\netcoreapp3.1\MenggunakanOperator.runtimeconfig.dev.json
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\bin\Debug\netcoreapp3.1\MenggunakanOperator.dll
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\bin\Debug\netcoreapp3.1\MenggunakanOperator.pdb
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\obj\Debug\netcoreapp3.1\MenggunakanOperator.dll
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\obj\Debug\netcoreapp3.1\MenggunakanOperator.pdb
+C:\Users\Agung\source\repos\Pratikum\MenggunakanOperator\obj\Debug\netcoreapp3.1\MenggunakanOperator.genruntimeconfig.cache

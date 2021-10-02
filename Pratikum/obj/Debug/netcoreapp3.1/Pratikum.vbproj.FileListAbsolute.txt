@@ -1,0 +1,6 @@
+C:\Users\Agung\source\repos\Pratikum\Pratikum\obj\Debug\netcoreapp3.1\Pratikum.Form1.resources
+C:\Users\Agung\source\repos\Pratikum\Pratikum\obj\Debug\netcoreapp3.1\Pratikum.vbproj.GenerateResource.cache
+C:\Users\Agung\source\repos\Pratikum\Pratikum\obj\Debug\netcoreapp3.1\Pratikum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agung\source\repos\Pratikum\Pratikum\obj\Debug\netcoreapp3.1\Pratikum.AssemblyInfoInputs.cache
+C:\Users\Agung\source\repos\Pratikum\Pratikum\obj\Debug\netcoreapp3.1\Pratikum.AssemblyInfo.vb
+C:\Users\Agung\source\repos\Pratikum\Pratikum\obj\Debug\netcoreapp3.1\Pratikum.vbproj.CoreCompileInputs.cache
